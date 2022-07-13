@@ -15,6 +15,7 @@ Link : https://hksirya-netflix-clone.netlify.app/
 # Tools Used 
 - ReactJs Was used to Make the Frontend Interface.
 - useState Hook was used to manage States
+- useEffect was used for indication of scroll .(Navbar become Black once User starts scrolling)
 - useRef Hook was used to persist value between renders.
 - FireBase was used to manage the login/logout operations and authentication.
 - Axios was used to fetch data from the API.
